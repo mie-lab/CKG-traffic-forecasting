@@ -1,2 +1,2 @@
 # CKG-traffic-forecasting
-Repository accompanying our paper "..."
+Context-aware knowledge graph framework for traffic forecasting.
