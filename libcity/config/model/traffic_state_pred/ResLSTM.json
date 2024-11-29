@@ -1,0 +1,19 @@
+{
+  "scaler": "minmax01",
+  "load_external": true,
+  "normal_external": false,
+  "add_time_in_day": true,
+  "add_day_in_week": false,
+
+  "max_epoch": 500,
+  "learner": "adam",
+  "learning_rate": 0.001,
+  "lr_decay": true,
+  "lr_scheduler": "multisteplr",
+  "lr_decay_ratio": 0.5,
+  "steps": [150, 250, 350, 450],
+  "clip_grad_norm": true,
+  "max_grad_norm": 5,
+  "use_early_stop": false,
+  "patience": 50
+}
