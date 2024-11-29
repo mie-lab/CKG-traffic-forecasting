@@ -1,5 +1,5 @@
 # raw_data Directory
-This directory is intended to store the project's raw data. As the data files are not included in the repository, please follow the instructions below to download and place them here.
+This directory is intended to store the project's raw speed data. As the data files are not included in the repository, please follow the instructions below to download and place them here.
 
 ## Download Instructions
 Download the raw data from the following link(s):
